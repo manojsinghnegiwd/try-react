@@ -1,0 +1,47 @@
+@import "~font-awesome/css/font-awesome.css";
+
+.item {
+	float: left;
+	width: 24%;
+	margin-bottom: 10px;
+	min-height: 100px;
+	text-align: center;
+}
+
+.listing {
+	margin-top: 70px;
+    padding: 0px 10px;
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.dialog-container {
+    padding-top: 0px !important;
+}
+
+.big-image {
+	margin:auto;
+	display: block;
+	margin-top: 24px;
+}
+
+.header {
+	position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.drawer-container {
+	width: 20% !important;
+}
+
+.main-container {
+	width: 80%;
+	float: right;
+	display: inline-block;
+}
+
+body {
+	margin: 0px;
+}

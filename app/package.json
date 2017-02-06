@@ -1,0 +1,15 @@
+{
+  "name": "React-electron-image-browser",
+  "productName": "React-electron-image-browser",
+  "version": "0.0.1",
+  "description": "Image Browser built using React, Redux & Electron",
+  "main": "./main.js",
+  "author": {
+    "name": "Manoj Singh Negi",
+    "email": "me@manojsinghnegi.com",
+    "url": "https://github.com/manojsinghnegiwd"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
